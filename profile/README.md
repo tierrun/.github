@@ -4,17 +4,10 @@
 application's pricing model following best
 [PriceOps](https://priceops.org) practices.
 
-Pricing is the most effective lever to unlock SaaS performance.
-However, attempts to iterate on pricing are too often hamstrung
-by complicated workflows, ad hoc conventions, and hidden
-cross-organization dependencies.
-
 Tier helps you to define a single source of pricing truth that
 can be safely and easily updated, with a simple json definition
 optimized for SaaS use cases. This keeps everything aligned as
 you find the best product-market fit.
-
-<!-- TODO: the quickstart should just be here inline, maybe? -->
 
 * [Quick Start Guide](./quickstart.md) - Step by step to
   getting up and running with Tier.
@@ -29,5 +22,3 @@ Advanced guides and reference docs:
   `pricing.json` format that Tier uses.
 * [Mapping to Stripe](./mapping.md) - How `pricing.json` maps to
   Stripe's objects.
-
-
