@@ -1,5 +1,3 @@
-![Tier.run](https://uploads-ssl.webflow.com/61e0906dfb20ab2b1c79f6af/62f957c6e0ceedbbd49b7044_Logo.svg)
-
 `tier` is a tool that lets you define and manage your SaaS
 application's pricing model following best
 [PriceOps](https://priceops.org) practices.
