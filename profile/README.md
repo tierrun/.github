@@ -7,6 +7,7 @@ can be safely and easily updated, with a simple json definition
 optimized for SaaS use cases. This keeps everything aligned as
 you find the best product-market fit.
 
+* [Hello World! example](https://blog.tier.run/tier-hello-world-demo) - Step by step guide to adding Tier to your new or existing codebase
 * [Quick Start Guide](https://tier.run/docs/quickstart) - Step by step to
   getting up and running with Tier.
 * [Recipes](https://tier.run/docs/recipes) - Example common pricing models and
