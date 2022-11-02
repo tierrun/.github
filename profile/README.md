@@ -19,5 +19,5 @@ Advanced guides and reference docs:
 
 * [Pricing JSON](https://tier.run/docs/pricing.json) - All about the
   `pricing.json` format that Tier uses.
-* [Mapping to Stripe](https://tier.run/docs/mapping.md) - How `pricing.json` maps to
+* [Mapping to Stripe](https://tier.run/docs/mapping) - How `pricing.json` maps to
   Stripe's objects.
